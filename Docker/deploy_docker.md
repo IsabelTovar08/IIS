@@ -4,6 +4,7 @@ En la siguiente imagen se observa la orquestación de servicios en
 **Docker** a partir de un archivo `docker-compose.yml`.
 
 ![alt text](image-6.png)
+![alt text](image-7.png)
 
 ## Descripción
 
